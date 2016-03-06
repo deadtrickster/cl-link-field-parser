@@ -1,4 +1,4 @@
-(asdf:defsystem :cl-link-header-parser
+(asdf:defsystem :cl-link-field-parser
   :serial t
   :version "0.0.1"
   :licence "MIT"
